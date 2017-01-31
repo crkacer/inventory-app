@@ -1,11 +1,3 @@
-//
-//  Order.swift
-//  StockManager
-//
-//  Created by MGXA2 on 1/7/17.
-//  Copyright © 2017 Duc Nguyen. All rights reserved.
-//
-
 import Foundation
 
 

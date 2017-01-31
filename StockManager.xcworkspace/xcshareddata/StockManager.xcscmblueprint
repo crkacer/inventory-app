@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "86DBDCD989768FD625E74C60AF42CF74550B0EAF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B3881CAB5BD40EC5A6A623DB040156CA43321B7E" : 9223372036854775807,
+    "86DBDCD989768FD625E74C60AF42CF74550B0EAF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF74E4F5-F0D9-434E-9518-9E2806912EE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B3881CAB5BD40EC5A6A623DB040156CA43321B7E" : "",
+    "86DBDCD989768FD625E74C60AF42CF74550B0EAF" : "StockManager\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StockManager",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StockManager.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/crkacer\/inventory-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86DBDCD989768FD625E74C60AF42CF74550B0EAF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/crkacer\/ios-programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3881CAB5BD40EC5A6A623DB040156CA43321B7E"
+    }
+  ]
+}
